@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;TP5&apos;&#x0D;&#x0A;- Original project: &apos;TP5&apos;&#x0D;&#x0A;- Original element: &apos;TP5/src/ma.eductaion.tp5&apos;" description="Delete element" element1="/src&lt;ma.eductaion.tp5" element2="/src&lt;ma.eductaion" element3="/src&lt;ma" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1639534882969" subPackages="false" version="1.0"/>
+</session>
